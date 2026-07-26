@@ -5,6 +5,6 @@
 
   # lz109's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[lz109.github.io/lab-website](https://lz109.github.io/lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
