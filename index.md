@@ -1,9 +1,13 @@
 ---
 ---
 
-# lz109's Website
+# Full Name of the Laboratory
 
-An engaging 1-3 sentence description of your lab.
+## Building intelligent systems that help people learn, innovate, create ventures, and translate research into impact
+
+We are an interdisciplinary research group at the HKU School of Innovation studying how artificial intelligence can support innovation and entrepreneurship.
+
+Our work combines research in entrepreneurship, design, engineering, education, and artificial intelligence. We develop and evaluate intelligent systems that help individuals and organizations identify opportunities, develop talent, create new ventures, assess innovative ideas, and translate academic research into real-world impact.
 
 {% include section.html %}
 
@@ -11,12 +15,14 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study how artificial intelligence is changing entrepreneurship, innovation education, talent development, and organizational decision-making.
+
+Our research examines both the opportunities and limitations of AI in areas such as entrepreneurial evaluation, human–AI collaboration, professional development, technology commercialization, and innovation policy.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,7 +40,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We design and evaluate intelligent systems in real educational, entrepreneurial, and innovation settings.
+
+Our projects include AI career coaching, AI literacy assessment, evaluation of creative projects, academic tour and research support, entrepreneurship incubation, technology transfer, and innovation policy intelligence.
 
 {%
   include button.html
@@ -53,13 +61,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="projects"
   title="Our Projects"
   flip=true
-  style="bare"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team brings together researchers and students interested in artificial intelligence, entrepreneurship, innovation, education, design, engineering, and technology commercialization.
+
+We welcome interdisciplinary collaboration with universities, companies, incubators, policymakers, and other innovation ecosystem partners.
 
 {%
   include button.html
@@ -78,4 +87,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="team"
   title="Our Team"
   text=text
+%}
+
+{% include section.html %}
+
+## Join Us
+
+We welcome students and collaborators interested in the intersection of artificial intelligence, innovation, entrepreneurship, education, and technology translation.
+
+Prospective students and collaborators are encouraged to explore our research and projects and contact us with a brief introduction and description of their interests.
+
+{%
+  include button.html
+  link="contact"
+  text="Contact us"
+  icon="fa-solid fa-envelope"
+  flip=true
+  style="bare"
 %}
