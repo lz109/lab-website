@@ -1,7 +1,7 @@
 ---
 ---
 
-# Venture engineering lab
+# Venture Engineering Lab
 
 ## Building intelligent systems that help people learn, innovate, create ventures, and translate research into impact
 
