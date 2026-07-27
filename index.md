@@ -1,7 +1,7 @@
 ---
 ---
 
-# Full Name of the Laboratory
+# Venture engineering lab
 
 ## Building intelligent systems that help people learn, innovate, create ventures, and translate research into impact
 
